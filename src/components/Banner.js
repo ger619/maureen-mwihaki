@@ -21,7 +21,7 @@ const Banner = () => {
                   </div>
                   </div>
                   <p className="mb-8 max-w-lg mx-auto lg:mx-0">
-                      I am Maureen Mwihaki, I am passionate about supply chain and distribution of products.
+                      I am Mwihaki Mwaura, I am passionate about supply chain and distribution of products.
                   </p>
                   <div className="flex max-w-max gap-x-6 items-center mb-12 mx-auto lg:mx-0">
                       <button  className="btn btn-lg">Contact Me</button>
