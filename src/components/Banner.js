@@ -35,6 +35,10 @@ const Banner = () => {
                       <a href="#">
                           <FaLinkedinIn />
                       </a>
+                      <a href = "#">
+                          <FaInstagram />
+                      </a>
+
                   </div>
                   <div>
                       <img src={Image} alt="avatar" className="rounded-full mx-auto" />
