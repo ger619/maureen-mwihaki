@@ -12,7 +12,7 @@ const Banner = () => {
               <div>
                   <div className="flex-1 text-center font-secondary lg:text-left">
                       <h1 className="text-[46px] font-bold leading-[0.8] lg:text-[72px]">
-                          MAUREEN <span>MWIHAKI</span>
+                          MWIHAKI<span>MWAURA</span>
                       </h1>
 
                   <div className="mb-6 text-[36px] lg:text-[60px] font-secondary font-semibold uppercase leading-[1]">
